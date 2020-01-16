@@ -34,5 +34,6 @@ c) Zapišite, kaj počnejo ukazi v 1., 2. in 3. vrstici.
 
 Komentar:
 Namesto Nucleo sva uporabila STM Discovery.
+Dela vaje z osciloskopom nisva uspela narediti.
 Vajo sva delala Luka Zajc in Domen Zidar.
   
