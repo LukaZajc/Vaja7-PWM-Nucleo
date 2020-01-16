@@ -30,4 +30,9 @@ c) Zapišite, kaj počnejo ukazi v 1., 2. in 3. vrstici.
      b) Ko program izvede loop skozi to vrstico, doda spremenljivki 10 dutyCycla.
 
      c) Preveri, če je vrednost dutyCycla večja od 90, če je, nastavimo dutyCycle nazaj na 10 in zanka je neskončna.
+     
+
+Komentar:
+Namesto Nucleo sva uporabila STM Discovery.
+Vajo sva delala Luka Zajc in Domen Zidar.
   
